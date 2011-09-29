@@ -1,0 +1,3 @@
+Just a couple of examples on configuring NLog and log4net to use udp for logging.
+
+Use (e.g.) Log2Console to view output.
